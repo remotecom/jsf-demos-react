@@ -1,4 +1,4 @@
-This is the CHANGELOG to json-schema-form:
+This is the CHANGELOG to json-schema-form (unreleased version).
 
 ### 2023 April 03
 
